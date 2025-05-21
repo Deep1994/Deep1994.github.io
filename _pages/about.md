@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the school of computer science, [Nanjing University](https://www.nju.edu.cn), supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj). My current research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning and reinforcement learning. Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
+Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the School of Computer Science, [Nanjing University](https://www.nju.edu.cn), supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj). My current research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning and reinforcement learning. Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard" is accepted by ACL 2025 (Findings).
@@ -74,16 +74,15 @@ Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the school of computer science
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - now*, Ph.D. candidate at the School of Computer Science, Nanjing University.
+- *2016.09 - 2019.06*, Master's degree, School of Information Science and Engineering, Yunnan University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.08 - now*, [Meituan Inc.](https://www.meituan.com), Shanghai, China.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.10* Academic Scholarship from Yunnan Provincial Government.
 
 <br>
 
