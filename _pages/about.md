@@ -45,7 +45,7 @@ Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the School of Computer Science
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/Hallu-PI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs** <span class='show_paper_citations' data='4Hph0s8AAAAJ:Tyk-4Ss8FVUC'></span>
+**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs** 
 
 **Peng Ding**, Jingyu Wu, Jun Kuang, Dan Ma, Xuezhi Cao, Xunliang Cai, Shi Chen, Jiajun Chen, Shujian Huang
 
