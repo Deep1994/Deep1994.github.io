@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peng Ding"
-description              : "Ph.D. Candidate"
+description              : ""
 repository               : "Deep1994/Deep1994.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Ding"
   avatar           : "images/deep1994.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Ph.D. Candidate"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
