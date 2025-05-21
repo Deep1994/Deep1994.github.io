@@ -21,8 +21,9 @@ Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the school of computer science
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard" is accepted by ACL 2025 (Findings).
+- *2024.07*: &nbsp;🎉🎉 Our paper "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs" is accepted by MM 2024.
+- *2024.03*: &nbsp;🎉🎉 Our paper "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily" is accepted by NAACL 2024 (Oral).
 
 # 📝 Publications 
 
