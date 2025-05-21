@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the School of Computer Science, [Nanjing University](https://www.nju.edu.cn), supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj). My current research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning and reinforcement learning. Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
+Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the School of Computer Science, [Nanjing University](https://www.nju.edu.cn), supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj). 
+
+My current research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning and reinforcement learning. 
+
+Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard" is accepted by ACL 2025 (Findings).
