@@ -57,7 +57,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+#
 
 <a href="https://info.flagcounter.com/sBlj"><img src="https://s01.flagcounter.com/count2/sBlj/bg_F2FFFE/txt_000000/border_BDAFCC/columns_2/maxflags_6/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
