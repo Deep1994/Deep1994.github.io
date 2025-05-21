@@ -68,8 +68,6 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 
 **Peng Ding**, Jun Kuang, Dan Ma, Xuezhi Cao, Yunsen Xian, Jiajun Chen, Shujian Huang
 
-<strong><span class='show_paper_citations' data='72yDElgAAAAJ:u5HHmVD_uO8C'></span></strong>
-
 
 💻 [**Code**]: [Link](https://github.com/NJUNLP/ReNeLLM) 
 
@@ -88,7 +86,7 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 
 
 # 🎖 Honors and Awards
-- *2018.10* Academic Scholarship from Yunnan Provincial Government.
+- *2018.10* Yunnan Provincial Government Scholarship.
 
 <br>
 
