@@ -51,7 +51,7 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 
 **Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs** 
 
-**Peng Ding**, Jingyu Wu, Jun Kuang, Dan Ma, Xuezhi Cao, Xunliang Cai, Shi Chen, Jiajun Chen, Shujian Huang
+**Peng Ding**<sup>*</sup>, **Jingyu Wu**<sup>\*</sup>, Jun Kuang, Dan Ma, Xuezhi Cao, Xunliang Cai, Shi Chen, Jiajun Chen, Shujian Huang
 
 
 💻 [**Code**]: [Link](https://github.com/NJUNLP/Hallu-PI) 
