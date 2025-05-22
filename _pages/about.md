@@ -24,7 +24,7 @@ My current research interests focus on the safety of large language models (LLMs
 Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard" is accepted by ACL 2025 (Findings).
+- *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement" is accepted by ACL 2025 (Findings).
 - *2024.07*: &nbsp;🎉🎉 Our paper "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs" is accepted by MM 2024.
 - *2024.03*: &nbsp;🎉🎉 Our paper "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily" is accepted by NAACL 2024 (Oral).
 
@@ -34,7 +34,7 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 (Findings)</div><img src='images/SAGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard**
+**Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement**
 
 **Peng Ding**, Jun Kuang, Zongyu Wang, Xuezhi Cao, Xunliang Cai, Jiajun Chen, Shujian Huang
 
