@@ -42,7 +42,7 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 
 💻 [**Code**]: [Link](https://github.com/NJUNLP/SDGO) 
 
-📄 [**Paper**]: [Link](https://arxiv.org/abs/2505.12435)
+📄 [**Paper**]: [Link](https://arxiv.org/abs/2508.15648)
 
 </div>
 </div>
