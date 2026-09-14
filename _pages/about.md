@@ -32,7 +32,7 @@ I am currently working at [Alibaba](https://www.alibaba.com/) in Hangzhou, on LL
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2026</div><img src='images/ISA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='images/ISA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Friend or Foe: How LLMs' Safety Mind Gets Fooled by Intent Shift Attack](https://arxiv.org/abs/2511.00556)
