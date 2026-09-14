@@ -17,20 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi~ I am Peng Ding (丁鹏), a Ph.D. candidate at the School of Computer Science, [Nanjing University](https://www.nju.edu.cn), supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj). 
+Hi~ I am Peng Ding (丁鹏), receiving my Ph.D. from the School of Computer Science, [Nanjing University](https://www.nju.edu.cn) in September 2026, supervised by [Prof. Shujian Huang](http://nlp.nju.edu.cn/huangsj).
 
-My current research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning and reinforcement learning. 
+My research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning, reinforcement learning, and Agentic AI.
 
-Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel free to contact me via email!
+I am currently working at [Alibaba Group](https://www.alibabagroup.com) in Hangzhou, on LLM safety and Agentic AI. Please feel free to contact me via email!
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper "SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models" is accepted by EMNLP 2025.
-- *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement" is accepted by ACL 2025 (Findings).
-- *2024.07*: &nbsp;🎉🎉 Our paper "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs" is accepted by MM 2024.
-- *2024.03*: &nbsp;🎉🎉 Our paper "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily" is accepted by NAACL 2024 (Oral).
-
+- *2026.05*: &nbsp;🎉🎉 Our paper "Friend or Foe: How LLMs' Safety Mind Gets Fooled by Intent Shift Attack" is accepted by **TACL**.
+- *2025.08*: &nbsp;🎉🎉 Our paper "SDGO: Self-Discrimination-Guided Optimization for Consistent Safety in Large Language Models" is accepted by **EMNLP 2025**.
+- *2025.05*: &nbsp;🎉🎉 Our paper "Why Not Act on What You Know? Unleashing Safety Potential of LLMs via Self-Aware Guard Enhancement" is accepted by **ACL 2025** (Findings).
+- *2024.07*: &nbsp;🎉🎉 Our paper "Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs" is accepted by **MM 2024**.
+- *2024.03*: &nbsp;🎉🎉 Our paper "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily" is accepted by **NAACL 2024** (Oral).
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL 2026</div><img src='images/ISA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Friend or Foe: How LLMs' Safety Mind Gets Fooled by Intent Shift Attack](https://arxiv.org/abs/2511.00556)
+
+**Peng Ding**, Jun Kuang, Wen Sun, Zongyu Wang, Xuezhi Cao, Xunliang Cai, Jiajun Chen, Shujian Huang
+
+💻 [**Code**]: [Link](https://github.com/NJUNLP/ISA)
+
+📄 [**Paper**]: [Link](https://arxiv.org/abs/2511.00556)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/SDGO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,12 +108,13 @@ Now, I am a research intern at [Meituan](https://www.meituan.com). Please feel f
 
 
 # 📖 Educations
-- *2019.06 - now*, Ph.D. candidate at the School of Computer Science, Nanjing University.
+- *2019.06 - 2026.09*, Ph.D., School of Computer Science, Nanjing University.
 - *2016.09 - 2019.06*, Master's degree, School of Information Science and Engineering, Yunnan University.
 
-# 💻 Internships
-- *2023.08 - now*, [Meituan Inc.](https://www.meituan.com), Shanghai, China.
+# 💻 Experiences
 
+- *2026.08 - now*, [Alibaba](https://www.alibaba.com/), Hangzhou, China.
+- *2023.08 - 2026.07*, [Meituan Inc.](https://www.meituan.com), Shanghai, China.
 
 # 🎖 Honors and Awards
 - *2018.10* Yunnan Provincial Government Scholarship.
