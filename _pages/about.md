@@ -21,7 +21,7 @@ Hi~ I am Peng Ding (丁鹏), receiving my Ph.D. from the School of Computer Scie
 
 My research interests focus on the safety of large language models (LLMs), including jailbreak attacks, defense mechanisms, and interpretability. I am also interested in other topics related to LLMs, such as reasoning, reinforcement learning, and Agentic AI.
 
-I am currently working at [Alibaba](https://www.alibaba.com/) in Hangzhou, on LLM safety and Agentic AI. Please feel free to contact me via email!
+I am currently working at [Alibaba Group](https://www.alibaba.com/) in Hangzhou, on LLM safety and Agentic AI. Please feel free to contact me via email!
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our paper "Friend or Foe: How LLMs' Safety Mind Gets Fooled by Intent Shift Attack" is accepted by **TACL**.
@@ -113,7 +113,7 @@ I am currently working at [Alibaba](https://www.alibaba.com/) in Hangzhou, on LL
 
 # 💻 Experiences
 
-- *2026.08 - now*, [Alibaba](https://www.alibaba.com/), Hangzhou, China.
+- *2026.08 - now*, [Alibaba Group](https://www.alibaba.com/), Hangzhou, China.
 - *2023.08 - 2026.07*, [Meituan Inc.](https://www.meituan.com), Shanghai, China.
 
 # 🎖 Honors and Awards
